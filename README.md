@@ -5,3 +5,6 @@ The autostarts patch is applied so edit config.def.h to define your own chosen a
 
 The only other thing of note is that PREFIX = "$HOME"/.local is defined in config.mk, edit to suit or edit ~/.xinitrc to exec ~/.local/bin/dwm
   
+Screenshot
+----------------------------
+![Screenshot](/screenshot.png)
