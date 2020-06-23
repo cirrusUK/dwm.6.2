@@ -8,4 +8,4 @@ The only other thing of note is that PREFIX = "$HOME"/.local is defined in confi
 
 Screenshot
 ----------------------------
-![Screenshot](/screenshot.png)
+#![Screenshot](/screenshot.png)
