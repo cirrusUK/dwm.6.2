@@ -9,8 +9,8 @@ Screenshot
 ----------------------------
 ![Screenshot](/screenshot.png)
 
-https://i.imgur.com/hmBvp1f.jpg
-
+Logo
+-----------------------------
 
 <div align="center">
 
@@ -18,7 +18,7 @@ https://i.imgur.com/hmBvp1f.jpg
 
 </div>
 
-<div align="right">
+<div align="center">
 
 ![Logo Light](https://i.imgur.com/Agc2IPj.png#gh-light-mode-only)
 
