@@ -14,12 +14,12 @@ https://i.imgur.com/hmBvp1f.jpg
 
 <div align="center">
 
-  ![Logo Dark](https://i.imgur.com/hmBvp1f.jpg#gh-dark-mode-only)
+![Logo Dark](https://i.imgur.com/hmBvp1f.jpg#gh-dark-mode-only)
 
 </div>
 
-<div align="center">
+<div align="right">
 
-  ![Logo Light](https://i.imgur.com/hmBvp1f.jpg#gh-light-mode-only)
+![Logo Light](https://i.imgur.com/Agc2IPj.png#gh-light-mode-only)
 
 </div>
