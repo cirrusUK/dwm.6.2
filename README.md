@@ -8,3 +8,18 @@ The only other thing of note is that PREFIX = "$HOME"/.local is defined in confi
 Screenshot
 ----------------------------
 ![Screenshot](/screenshot.png)
+
+https://i.imgur.com/hmBvp1f.jpg
+
+
+<div align="center">
+
+  ![Logo Dark](https://i.imgur.com/hmBvp1f.jpg#gh-dark-mode-only)
+
+</div>
+
+<div align="center">
+
+  ![Logo Light](https://i.imgur.com/hmBvp1f.jpg#gh-light-mode-only)
+
+</div>
